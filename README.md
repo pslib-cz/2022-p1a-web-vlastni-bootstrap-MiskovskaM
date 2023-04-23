@@ -5,6 +5,8 @@ Vytvořte vlastní malý tématický web pomocí HTML a CSS. Promyslete si téma
 
 Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které body zadání už máte splněné.
 
+https://pslib-cz.github.io/2022-p1a-web-vlastni-bootstrap-MiskovskaM/
+
 ## Požadavky
 
 ### HTML a struktura souborů
