@@ -210,11 +210,7 @@ select {
 select {
   word-wrap: normal; }
 
-button,
-[type="button"],
-[type="reset"],
-[type="submit"] {
-  -webkit-appearance: button; }
+
 
 button:not(:disabled),
 [type="button"]:not(:disabled),
@@ -262,16 +258,7 @@ progress {
 [type="number"]::-webkit-outer-spin-button {
   height: auto; }
 
-[type="search"] {
-  outline-offset: -2px;
-  -webkit-appearance: none; }
 
-[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none; }
-
-::-webkit-file-upload-button {
-  font: inherit;
-  -webkit-appearance: button; }
 
 output {
   display: inline-block; }
